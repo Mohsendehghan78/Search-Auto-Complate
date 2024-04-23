@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohsendehghan78/Search-Auto-Complate/static/css/main.7003356f.css",
+    "main.js": "/Mohsendehghan78/Search-Auto-Complate/static/js/main.632ec8a7.js",
+    "static/js/453.ed3810f9.chunk.js": "/Mohsendehghan78/Search-Auto-Complate/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Mohsendehghan78/Search-Auto-Complate/index.html",
+    "main.7003356f.css.map": "/Mohsendehghan78/Search-Auto-Complate/static/css/main.7003356f.css.map",
+    "main.632ec8a7.js.map": "/Mohsendehghan78/Search-Auto-Complate/static/js/main.632ec8a7.js.map",
+    "453.ed3810f9.chunk.js.map": "/Mohsendehghan78/Search-Auto-Complate/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7003356f.css",
+    "static/js/main.632ec8a7.js"
+  ]
+}
